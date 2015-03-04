@@ -9,6 +9,10 @@ public class Sample {
 		System.out.println("Git Testing");
 		
 		System.out.println("Git Branch Testing  "+new Date());
+		
+		System.out.println("Git Branch Testing with diff ");
+		
+		
 	}
 
 }
